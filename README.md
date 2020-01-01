@@ -38,12 +38,12 @@ pip install albumetations==0.4.2
 
 #### Predict of Spider man
 
-|タイプ|出力
+|Type |Output
 |---|---
-|はがね |52%
-|あく　|26%
-|エスパー |23%
-|むし　|8%
-|水 |1%
+|Steel |52%
+|Dark　|26%
+|Psychic |23%
+|Bug　|8%
+|Water |1%
 
 ![Spiderman](https://github.com/spider-man-tm/readme_figure/blob/master/spider-man.jpg)
