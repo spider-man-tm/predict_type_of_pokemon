@@ -1,0 +1,6 @@
+num_epochs: 20
+seed: 42
+batch_size: 16
+devie: cuda
+batch_multiplier: 3
+use_mixup: 4

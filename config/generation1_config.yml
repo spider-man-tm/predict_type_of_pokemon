@@ -1,0 +1,383 @@
+Bulbasaur:
+- grass
+- poison
+Ivysaur:
+- grass
+- poison
+Venusaur:
+- grass
+- poison
+Charmander:
+- fire
+Charmeleon:
+- fire
+Charizard:
+- fire
+- flying
+Squirtle:
+- water
+Wartortle:
+- water
+Blastoise:
+- water
+Caterpie:
+- bug
+Metapod:
+- bug
+Butterfree:
+- bug
+- flying
+Weedle:
+- bug
+- poison
+Kakuna:
+- bug
+- poison
+Beedrill:
+- bug
+- poison
+Pidgey:
+- normal
+- flying
+Pidgeotto:
+- normal
+- flying
+Pidgeot:
+- normal
+- flying
+Rattata:
+- normal
+- dark
+Raticate:
+- normal
+- dark
+Spearow:
+- normal
+- flying
+Fearow:
+- normal
+- flying
+Ekans:
+- poison
+Arbok:
+- poison
+Pikachu:
+- electric
+Raichu:
+- electric
+- electric
+Sandshrew:
+- ground
+- ice
+Sandslash:
+- ground
+- ice
+"Nidoran\u2640":
+- poison
+Nidorina:
+- poison
+Nidoqueen:
+- poison
+- ground
+"Nidoran\u2642":
+- poison
+Nidorino:
+- poison
+Nidoking:
+- poison
+- ground
+Clefairy:
+- fairy
+Clefable:
+- fairy
+Vulpix:
+- fire
+- ice
+Ninetales:
+- fire
+- ice
+Jigglypuff:
+- normal
+- fairy
+Wigglytuff:
+- normal
+- fairy
+Zubat:
+- poison
+- flying
+Golbat:
+- poison
+- flying
+Oddish:
+- grass
+- poison
+Gloom:
+- grass
+- poison
+Vileplume:
+- grass
+- poison
+Paras:
+- bug
+- grass
+Parasect:
+- bug
+- grass
+Venonat:
+- bug
+- poison
+Venomoth:
+- bug
+- poison
+Diglett:
+- ground
+- ground
+Dugtrio:
+- ground
+- ground
+Meowth:
+- normal
+- dark
+Persian:
+- normal
+- dark
+Psyduck:
+- water
+Golduck:
+- water
+Mankey:
+- fighting
+Primeape:
+- fighting
+Growlithe:
+- fire
+Arcanine:
+- fire
+Poliwag:
+- water
+Poliwhirl:
+- water
+Poliwrath:
+- water
+- fighting
+Abra:
+- psychic
+Kadabra:
+- psychic
+Alakazam:
+- psychic
+Machop:
+- fighting
+Machoke:
+- fighting
+Machamp:
+- fighting
+Bellsprout:
+- grass
+- poison
+Weepinbell:
+- grass
+- poison
+Victreebel:
+- grass
+- poison
+Tentacool:
+- water
+- poison
+Tentacruel:
+- water
+- poison
+Geodude:
+- rock
+- ground
+Graveler:
+- rock
+- ground
+Golem:
+- rock
+- ground
+Ponyta:
+- fire
+Rapidash:
+- fire
+Slowpoke:
+- water
+- psychic
+Slowbro:
+- water
+- psychic
+Magnemite:
+- electric
+- steel
+Magneton:
+- electric
+- steel
+Farfetch'd:
+- normal
+- flying
+Doduo:
+- normal
+- flying
+Dodrio:
+- normal
+- flying
+Seel:
+- water
+Dewgong:
+- water
+- ice
+Grimer:
+- poison
+- poison
+Muk:
+- poison
+- poison
+Shellder:
+- water
+Cloyster:
+- water
+- ice
+Gastly:
+- ghost
+- poison
+Haunter:
+- ghost
+- poison
+Gengar:
+- ghost
+- poison
+Onix:
+- rock
+- ground
+Drowzee:
+- psychic
+Hypno:
+- psychic
+Krabby:
+- water
+Kingler:
+- water
+Voltorb:
+- electric
+Electrode:
+- electric
+Exeggcute:
+- grass
+- psychic
+Exeggutor:
+- grass
+- psychic
+Cubone:
+- ground
+Marowak:
+- ground
+- fire
+Hitmonlee:
+- fighting
+Hitmonchan:
+- fighting
+Lickitung:
+- normal
+Koffing:
+- poison
+Weezing:
+- poison
+Rhyhorn:
+- ground
+- rock
+Rhydon:
+- ground
+- rock
+Chansey:
+- normal
+Tangela:
+- grass
+Kangaskhan:
+- normal
+Horsea:
+- water
+Seadra:
+- water
+Goldeen:
+- water
+Seaking:
+- water
+Staryu:
+- water
+Starmie:
+- water
+- psychic
+Mr. Mime:
+- psychic
+- fairy
+Scyther:
+- bug
+- flying
+Jynx:
+- ice
+- psychic
+Electabuzz:
+- electric
+Magmar:
+- fire
+Pinsir:
+- bug
+Tauros:
+- normal
+Magikarp:
+- water
+Gyarados:
+- water
+- flying
+Lapras:
+- water
+- ice
+Ditto:
+- normal
+Eevee:
+- normal
+Vaporeon:
+- water
+Jolteon:
+- electric
+Flareon:
+- fire
+Porygon:
+- normal
+Omanyte:
+- rock
+- water
+Omastar:
+- rock
+- water
+Kabuto:
+- rock
+- water
+Kabutops:
+- rock
+- water
+Aerodactyl:
+- rock
+- flying
+Snorlax:
+- normal
+Articuno:
+- ice
+- flying
+Zapdos:
+- electric
+- flying
+Moltres:
+- fire
+- flying
+Dratini:
+- dragon
+Dragonair:
+- dragon
+Dragonite:
+- dragon
+- flying
+Mewtwo:
+- psychic
+Mew:
+- psychic
