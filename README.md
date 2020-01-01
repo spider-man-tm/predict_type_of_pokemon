@@ -34,4 +34,16 @@ pip install albumetations==0.4.2
 ### Pick Up Figure
 #### F1 Score
 
-#### predict spider man
+![F1 Score](https://github.com/spider-man-tm/predict_type_of_pokemon/blob/master/export_figure/f1_score.png)
+
+#### Predict of Spider man
+
+|タイプ|出力
+|---|---
+|はがね |52%
+|あく　|26%
+|エスパー |23%
+|むし　|8%
+|水 |1%
+
+![Spiderman](https://github.com/spider-man-tm/readme_figure/blob/master/spider-man.jpg)
