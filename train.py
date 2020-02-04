@@ -83,7 +83,7 @@ def main():
 
             count = 0
             for img_batch, label_batch in loaders_dict[phase]:
-                if use_mixup:
+                if use_mixup and (pahse=='train'):
                     mixup_flag = np.random.randint(use_mixup)==1
                     if mixup_flag:
                         img_batch, label_batch = mixup(img_batch, label_batch, alpha=1, n_classes=18)
@@ -97,10 +97,10 @@ def main():
                 
                 with torch.set_grad_enabled(phase == 'train'):
                     output = torch.sigmoid(model(img_batch))
+                    loss = criterion(output, label_batch)
+                    loss /= batch_multiplier
 
                     if phase == 'train':
-                        loss = criterion(output, label_batch)
-                        loss /= batch_multiplier
                         loss.backward()
                         count -= 1
                         epoch_train_loss += loss.item() * batch_multiplier
@@ -111,8 +111,6 @@ def main():
                             epoch_train_score += metric(label, pred)
 
                     else:
-                        loss = criterion(output, label_batch)
-                        loss /= batch_multiplier
                         epoch_val_loss += loss.item() * batch_multiplier
 
                         for pred, label in zip(output, label_batch):
