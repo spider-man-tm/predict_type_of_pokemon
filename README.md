@@ -46,4 +46,4 @@ pip install albumetations==0.4.2
 |Bug　|8%
 |Water |1%
 
-![Spiderman](https://github.com/spider-man-tm/readme_figure/blob/master/spider-man.jpg)
+![Spiderman](https://github.com/spider-man-tm/readme_figure/blob/master/predict_type_of_pokemon/spider-man.jpg)
